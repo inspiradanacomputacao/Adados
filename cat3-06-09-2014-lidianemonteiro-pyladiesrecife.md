@@ -1,4 +1,5 @@
 - Nome do evento: PyLadies Recife
+- Site do evento: 
 - Título da palestra/minicurso: Yes, we can do IT!
 - Nome da/s palestrante/s: Lidiane Monteiro, Andreza Leite
 - Data da apresentação: 06-09-2014
