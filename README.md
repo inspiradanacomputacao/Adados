@@ -2,7 +2,7 @@
 Registro de dados sobre mulheres na computação, ciência e tecnologia no Brasil 
 
 
-##### Passo 1: crie um arquivo com as informações de acordo com a categoria:
+#### Passo 1: crie um arquivo com as informações de acordo com a categoria:
 
 ##### Cat1: [Palestra/minicurso apresentada]()
 
@@ -17,7 +17,7 @@ Fotos da palestra:  <br />
 Email: <br />
 
 
-######## Cat2: [Palestra/minicurso aprovado para apresentar]()
+##### Cat2: [Palestra/minicurso aprovado para apresentar]()
 
 Nome do evento:  <br />
 Data/s do evento: <br />
@@ -30,7 +30,7 @@ Email: <br />
 Site do evento:  <br />
  
 
-######## Cat3: [Eventos para submeter proposta]()
+##### Cat3: [Eventos para submeter proposta]()
 
 Nome do evento: <br />
 Data:  <br />
@@ -39,6 +39,6 @@ Local: <br />
 Estado/Cidade: <br />
 Site do evento: <br />
 
-### Passo 2: Salve o arquivo com o nomeCategoria-data-seuNome-nomeDoEvento.md
+#### Passo 2: Salve o arquivo com o nomeCategoria-data-seuNome-nomeDoEvento.md
 
-### Passo 3: Envie um pull request 
+#### Passo 3: Envie um pull request 
