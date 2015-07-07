@@ -7,41 +7,41 @@ Registro de dados sobre mulheres na computação, ciência e tecnologia no Brasi
 
 Passo 1: crie um arquivo com as informações de acordo com a categoria:
 
-1- [#### Palestra/minicurso apresentada]()
+Cat1: [#### Palestra/minicurso apresentada]()
 
-Nome do evento: 
-Título da palestra/minicurso:
-Nome da/s palestrante/s:
-Data da apresentação: 
-Local:
-Estado/Cidade:
-Slides/apresentação: 
-Fotos da palestra: 
-Email:
+Nome do evento: <br />
+Título da palestra/minicurso: <br />
+Nome da/s palestrante/s: <br />
+Data da apresentação:  <br />
+Local: <br />
+Estado/Cidade: <br />
+Slides/apresentação:  <br />
+Fotos da palestra:  <br />
+Email: <br />
 
 
-2 - [#### Palestra/minicurso aprovado para apresentar]()
+Cat2 - [#### Palestra/minicurso aprovado para apresentar]()
 
-Nome do evento: 
-Data/s do evento:
-Título da palestra/minicurso:
-Nome da/s palestrante/s:
-Data da apresentação: 
-Local:
-Estado/Cidade:
-Email:
-Site do evento: 
+Nome do evento:  <br />
+Data/s do evento: <br />
+Título da palestra/minicurso: <br />
+Nome da/s palestrante/s: <br />
+Data da apresentação:  <br />
+Local: <br />
+Estado/Cidade: <br />
+Email: <br />
+Site do evento:  <br />
  
 
-3 - [#### Eventos para submeter proposta]()
+Cat3 - [#### Eventos para submeter proposta]()
 
-Nome do evento: 
-Data: 
-Prazo para submissão:
-Local:
-Estado/Cidade:
-Site do evento:
+Nome do evento: <br />
+Data:  <br />
+Prazo para submissão: <br />
+Local: <br />
+Estado/Cidade: <br />
+Site do evento: <br />
 
-Passo 2: Salve o arquivo com o data-seunome-evento.md
+Passo 2: Salve o arquivo com o nomeCategoria-data-seuNome-nomeDoEvento.md
 
-Passo 3: Envie pull request 
+Passo 3: Envie um pull request 
