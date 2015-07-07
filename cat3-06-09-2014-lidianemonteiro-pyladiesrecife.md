@@ -1,10 +1,10 @@
-Nome do evento: PyLadies Recife
-Título da palestra/minicurso: Yes, we can do IT!
-Nome da/s palestrante/s: Lidiane Monteiro, Andreza Leite
-Data da apresentação: 06-09-2014
-Local: ThoughtWorks
-Estado/Cidade: Pernambuco/Recife
-Slides/apresentação: https://speakerdeck.com/lidymonteiro/yes-we-can-do-it-pyladies-recife-2014
-Fotos da palestra: 
-Email: contato.lidymonteiro@gmail.com / andreza.lba@gmail.com
-Clipping(post em blog e relacionados): http://brasil.pyladies.com/eventos/2014/09/19/pyladies-recife/
+- Nome do evento: PyLadies Recife
+- Título da palestra/minicurso: Yes, we can do IT!
+- Nome da/s palestrante/s: Lidiane Monteiro, Andreza Leite
+- Data da apresentação: 06-09-2014
+- Local: ThoughtWorks
+- Estado/Cidade: Pernambuco/Recife
+- Slides/apresentação: https://speakerdeck.com/lidymonteiro/yes-we-can-do-it-pyladies-recife-2014
+- Fotos da palestra: 
+- Email: contato.lidymonteiro@gmail.com / andreza.lba@gmail.com
+- Clipping(post em blog e relacionados): http://brasil.pyladies.com/eventos/2014/09/19/pyladies-recife/
