@@ -39,6 +39,6 @@ Local: <br />
 Estado/Cidade: <br />
 Site do evento: <br />
 
-#### Passo 2: Salve o arquivo com o nomeCategoria-data-seuNome-nomeDoEvento.md
+#### Passo 2: Salve o arquivo como nomeCategoria-data-seuNome-nomeDoEvento.md
 
 #### Passo 3: Envie um pull request 
