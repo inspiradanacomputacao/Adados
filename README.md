@@ -13,7 +13,7 @@ Local: <br />
 Estado/Cidade: <br />
 Site do evento: <br />
 
-##### Cat2: [Palestra/minicurso aprovado para apresentar]()
+##### Cat2: [Palestra/minicurso/Artigo aprovado para apresentar]()
 
 Nome do evento:  <br />
 Data/s do evento: <br />
@@ -25,7 +25,7 @@ Estado/Cidade: <br />
 Email: <br />
 Site do evento:  <br />
 
-##### Cat3: [Palestra/minicurso apresentada]()
+##### Cat3: [Palestra/minicurso/Artigo apresentada]()
 
 Nome do evento: <br />
 Site do evento:
