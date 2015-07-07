@@ -4,7 +4,7 @@ Registro de dados sobre participação das mulheres na computação, ciência e 
 ## Eventos
 #### Passo 1: crie um arquivo com as informações de acordo com a categoria:
 
-##### Cat1: [Eventos para submeter proposta]()
+##### Cat1: [Eventos para submeter proposta](#)
 
 Nome do evento: <br />
 Data:  <br />
@@ -13,7 +13,7 @@ Local: <br />
 Estado/Cidade: <br />
 Site do evento: <br />
 
-##### Cat2: [Palestra/minicurso/Artigo aprovado para apresentar]()
+##### Cat2: [Palestra/minicurso/Artigo aprovado para apresentar](#)
 
 Nome do evento:  <br />
 Data/s do evento: <br />
@@ -25,7 +25,7 @@ Estado/Cidade: <br />
 Email: <br />
 Site do evento:  <br />
 
-##### Cat3: [Palestra/minicurso/Artigo apresentada]()
+##### Cat3: [Palestra/minicurso/Artigo apresentada](#)
 
 Nome do evento: <br />
 Site do evento:
