@@ -2,9 +2,9 @@
 Registro de dados sobre mulheres na computação, ciência e tecnologia no Brasil 
 
 
-###Passo 1: crie um arquivo com as informações de acordo com a categoria:
+##### Passo 1: crie um arquivo com as informações de acordo com a categoria:
 
-######## Cat1: [Palestra/minicurso apresentada]()
+##### Cat1: [Palestra/minicurso apresentada]()
 
 Nome do evento: <br />
 Título da palestra/minicurso: <br />
