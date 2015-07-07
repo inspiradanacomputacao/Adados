@@ -7,23 +7,25 @@ Registro de dados sobre participação das mulheres na computação, ciência e 
 ##### Cat1: [Eventos para submeter proposta](#)
 
 Nome do evento: <br />
+Site do evento: <br />
 Data:  <br />
 Prazo para submissão: <br />
 Local: <br />
 Estado/Cidade: <br />
-Site do evento: <br />
 
 ##### Cat2: [Palestra/minicurso/Artigo aprovado para apresentar](#)
 
 Nome do evento:  <br />
+Site do evento:  <br />
 Data/s do evento: <br />
 Título da palestra/minicurso: <br />
 Nome da/s palestrante/s: <br />
 Data da apresentação:  <br />
 Local: <br />
 Estado/Cidade: <br />
-Email: <br />
-Site do evento:  <br />
+Email/Github/Twitter: <br />
+Clipping(post em blog e relacionados): <br >
+
 
 ##### Cat3: [Palestra/minicurso/Artigo apresentada](#)
 
