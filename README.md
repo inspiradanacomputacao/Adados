@@ -28,6 +28,7 @@ Site do evento:  <br />
 ##### Cat3: [Palestra/minicurso apresentada]()
 
 Nome do evento: <br />
+Site do evento:
 Título da palestra/minicurso: <br />
 Nome da/s palestrante/s: <br />
 Data da apresentação:  <br />
@@ -35,7 +36,8 @@ Local: <br />
 Estado/Cidade: <br />
 Slides/apresentação:  <br />
 Fotos da palestra:  <br />
-Email: <br />
+Email/Github/Twitter: <br />
+Clipping(post em blog e relacionados): <br >
 
 #### Passo 2: Salve o arquivo como nomeCategoria-data-seuNome-nomeDoEvento.md
 
