@@ -45,7 +45,7 @@ Clipping(post em blog e relacionados): <br >
 
 #### Passo 3: Envie um pull request 
 
-### Alternativa ao passo 3: 
+#### Alternativa ao passo 3: 
 1. Caso você não saiba usar o github, mas deseja fazer rapidamente seu registro, basta enviar por email seu registro: contato.lidymonteiro@gmail.com 
 2. Você pode aprender o básico de controle de versão (essencial para quem trabalha com programação, mas que pode ser usado em qualquer área) para usar github e ganhar mais uma habilidade: https://slides.com/lidianemonteiro/controle-de-versao/ 
 2. Em breve estarei disponibilizando um form para facilitar o cadastro. 
